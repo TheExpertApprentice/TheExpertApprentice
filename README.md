@@ -35,8 +35,16 @@ All coding projects are built from the ground up, from planning and designing al
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### General
 <div>
+    <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src=" " />
+    <img src=" " />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " />
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OPNSense-%23D94F00?style=for-the-badge&logo=opnsense&logoColor=black" />
+    <img src="https://img.shields.io/badge/-pfSense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white ">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white ">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white ">
