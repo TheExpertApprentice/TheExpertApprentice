@@ -2,15 +2,14 @@
 
 **`Aspiring CISO (Author/Researcher/Career Mentor/Entrepreneur/Cyber Analyst/Project, Change & Incident Manager)`**
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/cnejike"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-👋 Hi I'm Chris known as @TheExpertApprentice!, and while my official designation may be multi-disciplined, I prefer to think of myself as an eternal apprentice on a quest for knowledge. At the heart of my digital identity as The-Expert-Apprentice, i exemplify the embodiment of a perpetual learner and contributor, passionate about enhancing business maturity through streamlined operations, real-time monitoring, and analytics. I am deeply committed to guiding others, valuing both teaching and learning from anyone, encapsulating a philosophy of growth and mutual development in the tech community.
+👋 Hi I'm Chris @TheExpertApprentice!, and while my official designation may be multi-disciplined, I prefer to think of myself as an eternal apprentice on a quest for knowledge. At the heart of my digital identity as The-Expert-Apprentice, I exemplify the embodiment of a perpetual learner and contributor, passionate about enhancing business maturity through streamlined operations, real-time monitoring, and analytics. I am deeply committed to guiding others, valuing both teaching and learning from anyone, and encapsulating a philosophy of growth and mutual development in the tech community.
 
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 
 ## Top 10 Projects & Skills demonstration
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         | Impact |
 |-----------------------------------------------|----------------------------|--------------------------------|
@@ -28,32 +27,29 @@ All coding projects are built from the ground up, from planning and designing al
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OPNSense-%23D94F00?style=for-the-badge&logo=opnsense&logoColor=black" />
-    <img src="https://img.shields.io/badge/-pfSense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white ">
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### General
+### GENERAL
 <div>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white "/>
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white " />
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white "/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white "/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "/>
     <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white "/>
-    <img src=" " />
-    <img src=" " />
-    <img src=" " />
-    <img src=" " />
-    <img src=" " />
-    <img src=" " />
-    <img src=" " />
-    <img src=" " />
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white " />
+    <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white " />
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black " />
+    <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white " />
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white " />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " />
+    <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white " />
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black " />
+    <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD " />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white " />
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white " />
+    <img src="(https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=whit " />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white " />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " />
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white " />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -61,6 +57,16 @@ All coding projects are built from the ground up, from planning and designing al
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " />
     <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OPNSense-%23D94F00?style=for-the-badge&logo=opnsense&logoColor=black" />
+    <img src="https://img.shields.io/badge/-pfSense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white " />
 </div>
 
 ### SIEM
@@ -85,10 +91,9 @@ My professional certifications include:
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src=" ">
-<img src=" ">
-
-<img src=" ">
+<img src=" "/>
+<img src=" "/>
+<img src=" "/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </div>
   
