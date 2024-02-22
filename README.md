@@ -111,9 +111,9 @@ My professional certifications include:
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </div>
 
-🤝 Let’s build, learn, and grow together.
 
-- 📫 How to reach me: Feel free to connect with me on LinkedIn (insert LinkedIn profile) or shoot me an email at theexpertapprentice@email.com. I’m always up for a chat, be it sharing insights or learning something new!
+
+- 📫 How to reach me: Feel free to connect with me on LinkedIn (insert LinkedIn profile) or shoot me an email at theexpertapprentice@gmail.com.
 
 <!---
 TheExpertApprentice/TheExpertApprentice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
