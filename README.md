@@ -22,7 +22,7 @@ All coding projects are built from the ground up, from planning and designing al
 | Data Analysis                                 | <a href="https://google.com">Data Analytics</a> |                                                     |
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">SOC Automation Lab</a> |                                                |
 |  Risk Management | <a href="https://google.com">In-house Risk Calculator </a> |                                            |
-| Name | <a href="https://google.com">SOC Automation Lab</a> |                                            |
+| Research Publication | <a href="https://www.researchgate.net/publication/365926586_General-Purpose_Architectural_Model_for_IoT-Based_In-situ_Monitoring_Systems#full-text">IoT Quality Assessment Framework</a> | Birthed a Framework for IoT Projects |
 | Name | <a href="https://google.com">SOC Automation Lab</a> |                                            |
 
 ## 🧰 Languages and Tools
