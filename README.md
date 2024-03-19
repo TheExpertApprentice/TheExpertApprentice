@@ -23,7 +23,7 @@ All coding projects are built from the ground up, from planning and designing al
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">SOC Automation Lab</a> |                                                |
 |  Risk Management | <a href="https://google.com">In-house Risk Calculator </a> |                                            |
 | Research Publication | <a href="https://www.researchgate.net/publication/365926586_General-Purpose_Architectural_Model_for_IoT-Based_In-situ_Monitoring_Systems#full-text">IoT Quality Assessment Framework</a> | Birthed a Framework for IoT Projects |
-| Name | <a href="https://google.com">SOC Automation Lab</a> |                                            |
+| Covid Screening Portal | <a href="https://google.com](https://forms.office.com/Pages/ResponsePage.aspx?id=1lWtG_9nZEWArfALylmd-fG6gIFfMs1JhEzXtaPXNFpUMkVSNjA2M1lOMU1FUks5NVBNRDZMUjlRRy4u&wdLOR=cA0A062A6-B834-4F51-A42A-96B08B37DBA4">COVID Self-Screening Portal</a> | The portal significantly enhanced operational efficiency by reducing screening times by 75% and improved health guideline compliance by 90%. It also enabled the organization to swiftly respond to potential health threats, ensuring the safety and well-being of all employees and students. Moreover, the system streamlined the management of campus access, effectively reducing the risk of COVID-19 transmission by automating the enforcement of health and safety protocols.                                           |
 
 ## 🧰 Languages and Tools
 
