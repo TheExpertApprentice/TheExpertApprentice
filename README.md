@@ -13,7 +13,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 | Skill                                         | Associated Project         | Impact |
 |-----------------------------------------------|----------------------------|--------------------------------|
-| Requirement Gathering                         | <a href="https://google.com">Guide for Requirement Gathering</a> |                                    |
+| Requirement Gathering                         | <a href="https://github.com/TheExpertApprentice/Requirement-Elicitation/blob/main/Transforming%20Ambuigity%20into%20Clear%20Requirements.pdf">Guide for Requirement Gathering</a> |                                    |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a> |                                                      |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Packet Capture Analysis </a> |                                                    |
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">SOC Automation Lab</a> |                                                 |
