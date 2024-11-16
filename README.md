@@ -1,6 +1,6 @@
 # The-Expert-Apprentice
 
-**`FractionAL CISO | CISSP | Agile Project Managament Facilitator | Change & Incident Manager | GRC Expert | Cybersecurity Evangelist | Career Mentor | Author & Researcher`**
+**`FractionAL CISO | CISSP | Agile Facilitator | Change & Incident Manager | GRC Expert | Cybersecurity Evangelist | Career Mentor | Author & Researcher`**
 
 <a href="https://linkedin.com/in/cnejike"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
