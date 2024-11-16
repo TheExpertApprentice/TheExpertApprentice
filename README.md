@@ -1,12 +1,12 @@
 # The-Expert-Apprentice
 
-**`Aspiring CISO (Author/Researcher/Career Mentor/Entrepreneur/Cyber Analyst/Project, Change & Incident Manager)`**
+**`FractionAL CISO | CISSP | Agile Project Managament Facilitator | Change & Incident Manager | GRC Expert | Cybersecurity Evangelist | Career Mentor | Author & Researcher`**
 
 <a href="https://linkedin.com/in/cnejike"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 👋 Hi I'm Chris @TheExpertApprentice!, and while my official designation may be multi-disciplined, I prefer to think of myself as an eternal apprentice on a quest for knowledge. At the heart of my digital identity as The-Expert-Apprentice, I exemplify the embodiment of a perpetual learner and contributor, passionate about enhancing business maturity through streamlined operations, real-time monitoring, and analytics. I am deeply committed to guiding others, valuing both teaching and learning from anyone, and encapsulating a philosophy of growth and mutual development in the tech community.
 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 
 ## Top 10 Projects & Skills demonstration
