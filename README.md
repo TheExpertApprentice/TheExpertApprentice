@@ -26,7 +26,7 @@ My professional certifications include:
 - ![ITIL](https://img.shields.io/badge/ITIL-Completed-brightgreen) 
 
 ### Advanced Security Training
-- ![OSCP Training](https://img.shields.io/badge/ISO/IEC%2027001%20Lead%20Implementer-In%20Progress-orange) 
+- ![OSCP](https://img.shields.io/badge/Offensive%20Security%20Certified%20Professional-In%20Progress-orange) 
 
 
 
