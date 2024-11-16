@@ -8,36 +8,26 @@
 
 All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
+
 ## Certifications
-My professional certifications include:
-
-Information Security & Governance
-<img src="https://img.shields.io/badge/-CISSP-007ACC?style=for-the-badge&logo=ISC2&logoColor=white" /> CISSP - Certified Information Systems Security Professional
-<img src="" /> COBIT2019 - Control Objectives for Information and Related Technology
-<img src=" 27001 Lead Implementer-007ACC?style=for-the-badge&logo=ISO&logoColor=white" /> ISO/IEC 27001 Lead Practitioner (In Progress)
-IT Architecture & Strategy
-<img src="" /> TOGAF - The Open Group Architecture Framework
-Project Management & Methodologies
-<img src=" PM Practitioner-007ACC?style=for-the-badge&logo=APMG&logoColor=white" /> Agile PM Practitioner - Agile Project Management Practitioner (APMG)
-Advanced Security Training
-<img src="https://img.shields.io/badge/-OSCP-FF0000?style=for-the-badge&logo=OffensiveSecurity&logoColor=white" /> OSCP (In Progress) - Offensive Security Certified Professional
-
 
 My professional certifications include:
 
 ### Information Security & Governance
-- ![CISSP](<img src="" />) **CISSP** - Certified Information Systems Security Professional
-- ![COBIT](<img src="" />) **COBIT** - Control Objectives for Information and Related Technology
-- ![ISO/IEC 27001](https://img.shields.io/badge/ISO/IEC%2027001%20Lead%20Practitioner-in%20Progress-orange) **ISO/IEC 27001 Practitioner** (In Progress)
+- ![CISSP](https://img.shields.io/badge/CISSP-Completed-brightgreen) 
+- ![COBIT 2019](https://img.shields.io/badge/COBIT%202019-Completed-brightgreen) 
+- ![ISO/IEC 27001 Lead Implementer](https://img.shields.io/badge/ISO/IEC%2027001%20Lead%20Implementer-In%20Progress-orange) 
 
 ### IT Architecture & Strategy
-- ![TOGAF](<img src="" />) **TOGAF** - The Open Group Architecture Framework
+- ![TOGAF 9](https://img.shields.io/badge/TOGAF%209-Completed-brightgreen)
 
 ### Project Management & Methodologies
-- ![Agile PM Practitioner](https://img.shields.io/badge/Agile%20PM%20Practitioner-007ACC?style=for-the-badge&logo=APMG&logoColor=white) **Agile PM Practitioner** - Agile Project Management Practitioner (APMG)
+- ![Agile PM Practitioner](https://img.shields.io/badge/Agile%20PM%20Practitioner-Completed-brightgreen) 
+- ![ITIL](https://img.shields.io/badge/ITIL-Completed-brightgreen) 
 
 ### Advanced Security Training
-- ![OSCP](<img src="https://img.shields.io/badge/-OSCP-In%20Progress-orange?style=for-the-badge&logo=OffensiveSecurity&logoColor=white" />) **OSCP (In Progress)** - Offensive Security Certified Professional
+- ![OSCP Training](https://img.shields.io/badge/ISO/IEC%2027001%20Lead%20Implementer-In%20Progress-orange) 
+
 
 
 ## Top 10 Projects & Skills demonstration
