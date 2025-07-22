@@ -16,7 +16,7 @@ My professional certifications include:
 ### Information Security & Governance
 - ![CISSP](https://img.shields.io/badge/CISSP-Completed-brightgreen) 
 - ![COBIT 2019](https://img.shields.io/badge/COBIT%202019-Completed-brightgreen) 
-- ![ISO/IEC 27001 Lead Implementer](https://img.shields.io/badge/ISO/IEC%2027001%20Lead%20Implementer-In%20Progress-orange) 
+- ![ISO/IEC 27001 Lead Implementer](https://img.shields.io/badge/ISO/IEC%2027001%20Lead%20Implementer-Completed-brightgreen) 
 
 ### IT Architecture & Strategy
 - ![TOGAF 9](https://img.shields.io/badge/TOGAF%209-Completed-brightgreen)
